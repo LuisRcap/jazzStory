@@ -1,0 +1,40 @@
+body {
+    background-image: url("../imgs/0 - On an autumn night under a full moon a pair of.png");
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#container {
+    min-height: 100%;
+    width: 100vw;
+    background-color: #33333378;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    padding: 10px 5% 10px 5%;
+}
+
+.btn-no-click {
+    background-color: white !important;
+    color: black !important;
+  }
