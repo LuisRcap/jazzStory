@@ -2,7 +2,7 @@ const cuteTexts = [
     `<div class="slider_caption"><span>Esto inició hace un tiempo y he disfrutado cada segundo que he pasado contigo,
     por eso quiero hacerte unas preguntas y saber si tu has sentido algo parecido y la
     primera es ¿Realmente te gusto?</span>
-    <div>
+    <div class="btn-container">
         <button id="si" class="btn btn-primary">¡Me encantas!</button>
         <button id="no" class="btn btn-danger">No realmente</button>
     </div>
@@ -10,13 +10,13 @@ const cuteTexts = [
     `<div class="slider_caption"><span>Tú también me gustas como no tienes idea 🥰 cada beso tuyo hace que el tiempo
     se detenga y que todo alrededor desaparesca, haciendo que lo único que quiera ver seas tú.<br>¿Te gustarían más
     momentos como estos?</span>
-    <div>
+    <div class="btn-container">
         <button id="si" class="btn btn-primary">Por supuesto 🥰</button>
         <button id="no" class="btn btn-danger">Estoy bien así</button>
     </div></div>`,
     `<div class="slider_caption"><span>No puedo pensar en mejor forma de pasar mis días que estando contigo,
     me alegras los días y me llenas de vida ✨ quisiera que esto dure por mucho tiempo ¿Piensas de la misma forma?</span>
-    <div>
+    <div class="btn-container">
         <button id="si" class="btn btn-primary">Me leíste la mente 😍</button>
         <button id="no" class="btn btn-danger">Pienso diferente</button>
     </div>
@@ -24,7 +24,7 @@ const cuteTexts = [
     `<div class="slider_caption"><span>Si pensamos igual, no veo por qué no cerrar el trato 🤍 si respondes que
     si a esto me harás la persona más feliz en el mundo.</span>
     <h2>¿Quieres ser mi novia? 💖</h2>
-    <div>
+    <div class="btn-container">
         <button id="si" class="btn btn-primary">Me encantaría 💓</button>
         <button id="no" class="btn btn-danger">No, paso</button>
     </div></div>`,

@@ -41,15 +41,21 @@ h2 {
     padding: 5%;
 }
 
+.btn-container {
+    min-width: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
 #si {
     margin-bottom: 30px !important;
-    margin-right: 10px;
     border-radius: 5px;
     width: 200px;
 }
 #no {
     margin-bottom: 30px !important;
-    margin-left: 10px;
     border-radius: 5px;
     width: 200px;
     z-index: 500;
